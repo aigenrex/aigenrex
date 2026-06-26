@@ -3,7 +3,7 @@
 **AI Software Development & Business Automation Agency**
 > Build · Automate · Dominate
 
-We build intelligent software systems, automate business workflows, build and deploy Voice + text caht agents and launch AI-powered SaaS products for businesses that want to move faster and work smarter.
+We build intelligent software systems, automate business workflows, build and deploy Voice + text chat agents and launch AI-powered SaaS products for businesses that want to move faster and work smarter.
 
 ---
 
